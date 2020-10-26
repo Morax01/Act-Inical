@@ -1,5 +1,5 @@
 #A00828359
-#matricula y nombre 2
+#A00517141 Juan Angel Mora Moreno
 #proposito del programa
 
 #funcion1  calcular área del rectángulo
