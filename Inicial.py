@@ -8,7 +8,11 @@ def calculaArea(l1, l2):
     return area
 
 #funcion2  calcular perímetro del rectángulo
-
+def calculaPeri(l1,l2):
+  l1 = l1 * 2
+  l2 = l2 * 2
+  peri = l1 + l2
+  return peri
 
 #instrucciones de accion
 #pedir datos
@@ -23,4 +27,5 @@ area = calculaArea(l1, l2)
 print("El area es: ", area)
 
 #desplegar calculo funcion 2
-
+peri = calculaPeri(l1,l2)
+print("El perímetro del rectángulo es: ", peri)
