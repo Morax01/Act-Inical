@@ -1,4 +1,4 @@
-#A00828359
+#A00828359 Isaac Arredondo Padron
 #A00517141 Juan Angel Mora Moreno
 #proposito del programa
 
